@@ -1,15 +1,7 @@
+<script setup lang="ts"></script>
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="home">
+    <h2>this is about page</h2>
   </div>
 </template>
-
-<style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
-</style>
+<style scoped lang="less"></style>

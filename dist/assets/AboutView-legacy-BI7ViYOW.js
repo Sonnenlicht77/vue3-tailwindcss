@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DIGiTAqu.js"],(function(e,t){"use strict";var n,r,s,u;return{setters:[function(e){n=e._,r=e.c,s=e.o,u=e.a}],execute:function(){var t={},i={class:"home"},c=[u("h2",null,"this is about page",-1)];e("default",n(t,[["render",function(e,t){return s(),r("div",i,c)}]]))}}}));
