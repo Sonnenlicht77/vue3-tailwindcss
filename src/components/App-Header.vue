@@ -3,7 +3,7 @@ import { RouterLink } from 'vue-router'
 import IconSvg from './icons/icon_svg.vue';
 </script>
 <template>
-  <div class="w-screen h-20 bg-slate-100 flex justify-between items-center  px-5 ">
+  <div class="w-full h-20 bg-slate-100 flex justify-between items-center  px-5 fixed">
     <div class="flex justify-between items-center">
       <icon-svg class="text-sky-400/100 w-10 h-10"></icon-svg>
       <h1 class="ml-3 text-[24px] font-bold">Tailwind CSS 从 0 到 Demo</h1>
