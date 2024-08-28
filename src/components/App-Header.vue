@@ -11,6 +11,7 @@ import IconSvg from './icons/icon_svg.vue';
     <div class="flex justify-between items-center">
       <RouterLink to="/">文档</RouterLink>
       <RouterLink to="/about">关于</RouterLink>
+      <div>BLOG</div>
       <div>DEMO</div>
       <div>切换模式</div>
     </div>
