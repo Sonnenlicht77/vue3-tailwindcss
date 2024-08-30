@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as o,a as t}from"./index-CVqaqGIp.js";const c={},a={class:"homepage"},n=t("h2",null,"installpage",-1),_=[n];function r(d,i){return s(),o("div",a,_)}const f=e(c,[["render",r]]);export{f as default};

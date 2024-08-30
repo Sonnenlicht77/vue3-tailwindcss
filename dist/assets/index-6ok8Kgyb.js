@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as c}from"./index-CVqaqGIp.js";const o={},n={class:"pt-20"},_=c("h2",null,"BLOG",-1),a=[_];function r(d,i){return s(),t("div",n,a)}const f=e(o,[["render",r]]);export{f as default};

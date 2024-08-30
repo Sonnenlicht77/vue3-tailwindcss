@@ -2,132 +2,137 @@
   {
     "id": "01",
     "name": "简介",
-    "path": "/",
+    "path": "/intro",
     "chidren": [
       {
         "id": "011",
         "name": "说明",
-        "path": "/c"
+        "path": ""
       },
       {
         "id": "012",
         "name": "官方地址",
-        "path": "/c"
+        "path": ""
       },
       {
         "id": "013",
         "name": "在线练习",
-        "path": "/c"
+        "path": ""
       }
     ]
   },
   {
     "id": "02",
     "name": "安装",
-    "path": "/",
+    "path": "/install",
     "chidren": [
       {
         "id": "021",
         "name": "vite5.x + vue3.x 安装",
-        "path": "/c"
+        "path": "/tool"
       },
       {
         "id": "022",
         "name": "使用",
-        "path": "/c"
+        "path": "/use"
       }
     ]
   },
   {
     "id": "03",
     "name": "基本",
-    "path": "/",
+    "path": "/basis",
     "chidren": [
       {
         "id": "031",
         "name": "基本样式",
-        "path": "/c"
+        "path": "/preflight"
       },
       {
         "id": "032",
         "name": "布局",
-        "path": "/c"
+        "path": "/layout"
       },
       {
         "id": "033",
         "name": "Flexbox & Grid",
-        "path": "/c"
+        "path": "/flexboxgrid"
       },
       {
         "id": "034",
         "name": "间隔",
-        "path": "/c"
+        "path": "/spacing"
       },
       {
         "id": "035",
         "name": "尺寸",
-        "path": "/c"
+        "path": "/size"
       },
       {
         "id": "036",
         "name": "排版",
-        "path": "/c"
+        "path": "/typograph"
       },
       {
         "id": "037",
         "name": "背景",
-        "path": "/c"
+        "path": "/background"
       },
       {
         "id": "038",
         "name": "边框",
-        "path": "/c"
+        "path": "/border"
       },
       {
         "id": "039",
         "name": "效果",
-        "path": "/c"
+        "path": "/effect"
       },
       {
         "id": "0340",
         "name": "Filters",
-        "path": "/c"
+        "path": "/filters"
       },
       {
         "id": "0341",
         "name": "表格",
-        "path": "/c"
+        "path": "/table"
       },
       {
         "id": "0342",
-        "name": "动画",
-        "path": "/c"
+        "name": "动效",
+        "path": "/transianimate"
       },
       {
         "id": "0343",
-        "name": "缩放",
-        "path": "/c"
+        "name": "变形",
+        "path": "/transform"
       },
       {
         "id": "0344",
         "name": "交互",
-        "path": "/c"
+        "path": "/interactivity"
       },
       {
         "id": "0345",
         "name": "SVG",
-        "path": "/c"
+        "path": "/svg"
       }
     ]
   },
   {
     "id": "04",
     "name": "Accessibility",
-    "path": "/c"
+    "path": "/accessibility"
   },
   {
     "id": "05 ",
     "name": "官方插件",
-    "path": "/c"
+    "path": "/plugins"
+  },
+  {
+    "id": "06 ",
+    "name": "完结",
+    "path": "/summary"
   }
 ]

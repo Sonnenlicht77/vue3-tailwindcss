@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as s,a as t}from"./index-B6c_TCab.js";const c={},a={class:"home"},_=t("h2",null,"this is about page",-1),n=[_];function r(i,d){return s(),o("div",a,n)}const l=e(c,[["render",r]]);export{l as default};

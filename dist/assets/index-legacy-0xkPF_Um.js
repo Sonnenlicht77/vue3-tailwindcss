@@ -1,0 +1,1 @@
+System.register(["./index-legacy-Dx9OmLXf.js"],(function(e,t){"use strict";var n,r,u;return{setters:[function(e){n=e._,r=e.o,u=e.c}],execute:function(){var t={class:"pt-20"};e("default",n({},[["render",function(e,n){return r(),u("div",t," 404 not found~ ")}]]))}}}));

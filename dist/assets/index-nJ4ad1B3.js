@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as o,a as t}from"./index-CVqaqGIp.js";const c={},n={class:"pt-20"},_=t("h2",null,"demos",-1),a=[_];function r(d,i){return s(),o("div",n,a)}const f=e(c,[["render",r]]);export{f as default};

@@ -1,0 +1,1 @@
+System.register(["./index-legacy-Dx9OmLXf.js"],(function(e,t){"use strict";var n,r,s,a;return{setters:[function(e){n=e._,r=e.o,s=e.c,a=e.a}],execute:function(){var t={},u={class:"basepage"},c=[a("h2",null,"basepage",-1)];e("default",n(t,[["render",function(e,t){return r(),s("div",u,c)}]]))}}}));

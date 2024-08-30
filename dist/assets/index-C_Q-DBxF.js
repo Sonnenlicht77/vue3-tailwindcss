@@ -1,0 +1,1 @@
+import{_ as e,o as s,c,a as o}from"./index-CVqaqGIp.js";const t={},a={class:"homepage"},n=o("h2",null,"Accessibilitypage",-1),_=[n];function r(i,d){return s(),c("div",a,_)}const f=e(t,[["render",r]]);export{f as default};

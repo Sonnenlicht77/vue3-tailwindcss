@@ -1,0 +1,1 @@
+System.register(["./index-legacy-Dx9OmLXf.js"],(function(e,t){"use strict";var n,r,u,c;return{setters:[function(e){n=e._,r=e.o,u=e.c,c=e.a}],execute:function(){var t={},s={class:"homepage"},i=[c("h2",null,"总结：",-1)];e("default",n(t,[["render",function(e,t){return r(),u("div",s,i)}]]))}}}));
